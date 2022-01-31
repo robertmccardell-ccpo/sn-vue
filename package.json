@@ -5,10 +5,15 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "postbuild": "node servicenow.postbuild.js"
   },
   "dependencies": {
+    "clear": "^0.1.0",
+    "chalk": "^3.0.0",
     "core-js": "^3.6.5",
+    "d": "^1.0.1",
+    "directory-tree": "^3.0.1",
     "vue": "^2.6.11"
   },
   "devDependencies": {
@@ -18,7 +23,9 @@
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
-    "vue-template-compiler": "^2.6.11"
+    "html-webpack-plugin": "^4.5.2",
+    "vue-template-compiler": "^2.6.11",
+    "webpack-merge": "^5.8.0"
   },
   "eslintConfig": {
     "root": true,
