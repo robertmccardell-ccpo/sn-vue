@@ -11,6 +11,7 @@ npm run serve
 ```
 
 ### Compiles and minifies for production
+Do file replace 'x_744337' with your desired name
 ```
 npm run build
 ```
