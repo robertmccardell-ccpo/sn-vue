@@ -1,3 +1,4 @@
+<!--based on https://github.com/elinsoftware/sn-react -->
 <?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-01-07 21:21:11">
 <sys_remote_update_set action="INSERT_OR_UPDATE">
 <application display_value="Vue App">f2ba728813da041032813092e144b01f</application>
@@ -19,11 +20,11 @@
 <state>loaded</state>
 <summary/>
 <sys_class_name>sys_remote_update_set</sys_class_name>
-<sys_created_by>andrew.pishchulin</sys_created_by>
+<sys_created_by>robert.mccardell</sys_created_by>
 <sys_created_on>2020-01-07 21:21:11</sys_created_on>
 <sys_id>06908b40131e041032813092e144b07b</sys_id>
 <sys_mod_count>0</sys_mod_count>
-<sys_updated_by>andrew.pishchulin</sys_updated_by>
+<sys_updated_by>robert.mccardell</sys_updated_by>
 <sys_updated_on>2020-01-07 21:21:11</sys_updated_on>
 <update_set display_value=""/>
 <update_source display_value=""/>
@@ -35,16 +36,16 @@
 <category>customer</category>
 <comments/>
 <name>sys_scope_privilege_acee3ecc13da041032813092e144b0a6</name>
-<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>read</operation><source_scope display_value="Vue App">f2ba728813da041032813092e144b01f</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>andrew.pishchulin</sys_created_by><sys_created_on>2020-01-07 21:13:42</sys_created_on><sys_id>acee3ecc13da041032813092e144b0a6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_attachment</sys_name><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_scope_privilege_acee3ecc13da041032813092e144b0a6</sys_update_name><sys_updated_by>andrew.pishchulin</sys_updated_by><sys_updated_on>2020-01-07 21:13:42</sys_updated_on><target_name>sys_attachment</target_name><target_scope display_value="Global">global</target_scope><target_type>sys_db_object</target_type></sys_scope_privilege></record_update>]]></payload>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>read</operation><source_scope display_value="Vue App">f2ba728813da041032813092e144b01f</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>robert.mccardell</sys_created_by><sys_created_on>2020-01-07 21:13:42</sys_created_on><sys_id>acee3ecc13da041032813092e144b0a6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_attachment</sys_name><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_scope_privilege_acee3ecc13da041032813092e144b0a6</sys_update_name><sys_updated_by>robert.mccardell</sys_updated_by><sys_updated_on>2020-01-07 21:13:42</sys_updated_on><target_name>sys_attachment</target_name><target_scope display_value="Global">global</target_scope><target_type>sys_db_object</target_type></sys_scope_privilege></record_update>]]></payload>
 <payload_hash>-985964803</payload_hash>
 <remote_update_set display_value="Vue App">06908b40131e041032813092e144b07b</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
-<sys_created_by>andrew.pishchulin</sys_created_by>
+<sys_created_by>robert.mccardell</sys_created_by>
 <sys_created_on>2020-01-07 21:21:11</sys_created_on>
 <sys_id>02908b40131e041032813092e144b07e</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>16f81e19de30000001</sys_recorded_at>
-<sys_updated_by>andrew.pishchulin</sys_updated_by>
+<sys_updated_by>robert.mccardell</sys_updated_by>
 <sys_updated_on>2020-01-07 21:21:11</sys_updated_on>
 <table/>
 <target_name>sys_attachment</target_name>
@@ -61,16 +62,16 @@
 <category>customer</category>
 <comments/>
 <name>sys_scope_privilege_60ee3ecc13da041032813092e144b0a9</name>
-<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="Vue App">f2ba728813da041032813092e144b01f</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>andrew.pishchulin</sys_created_by><sys_created_on>2020-01-07 21:13:42</sys_created_on><sys_id>60ee3ecc13da041032813092e144b0a9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>GlideSysAttachment.getContent</sys_name><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_scope_privilege_60ee3ecc13da041032813092e144b0a9</sys_update_name><sys_updated_by>andrew.pishchulin</sys_updated_by><sys_updated_on>2020-01-07 21:13:42</sys_updated_on><target_name>GlideSysAttachment.getContent</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></payload>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="Vue App">f2ba728813da041032813092e144b01f</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>robert.mccardell</sys_created_by><sys_created_on>2020-01-07 21:13:42</sys_created_on><sys_id>60ee3ecc13da041032813092e144b0a9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>GlideSysAttachment.getContent</sys_name><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_scope_privilege_60ee3ecc13da041032813092e144b0a9</sys_update_name><sys_updated_by>robert.mccardell</sys_updated_by><sys_updated_on>2020-01-07 21:13:42</sys_updated_on><target_name>GlideSysAttachment.getContent</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></payload>
 <payload_hash>115103585</payload_hash>
 <remote_update_set display_value="Vue App">06908b40131e041032813092e144b07b</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
-<sys_created_by>andrew.pishchulin</sys_created_by>
+<sys_created_by>robert.mccardell</sys_created_by>
 <sys_created_on>2020-01-07 21:21:11</sys_created_on>
 <sys_id>06908b40131e041032813092e144b07d</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>16f81e19dd60000001</sys_recorded_at>
-<sys_updated_by>andrew.pishchulin</sys_updated_by>
+<sys_updated_by>robert.mccardell</sys_updated_by>
 <sys_updated_on>2020-01-07 21:21:11</sys_updated_on>
 <table/>
 <target_name>GlideSysAttachment.getContent</target_name>
@@ -87,16 +88,16 @@
 <category>customer</category>
 <comments/>
 <name>sys_app_module_6bdc3a4c13da041032813092e144b07e</name>
-<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Vue Container">163c7a0c13da041032813092e144b0be</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>DIRECT</link_type><map_page/><mobile_title>REST API</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>200</order><override_menu_roles>false</override_menu_roles><query>sys_ws_definition.do?sys_id=74daba8813da041032813092e144b0e1</query><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>andrew.pishchulin</sys_created_by><sys_created_on>2020-01-07 21:05:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6bdc3a4c13da041032813092e144b07e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>REST API</sys_name><sys_overrides/><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_app_module_6bdc3a4c13da041032813092e144b07e</sys_update_name><sys_updated_by>andrew.pishchulin</sys_updated_by><sys_updated_on>2020-01-07 21:06:17</sys_updated_on><timeline_page/><title>REST API</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Vue Container">163c7a0c13da041032813092e144b0be</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>DIRECT</link_type><map_page/><mobile_title>REST API</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>200</order><override_menu_roles>false</override_menu_roles><query>sys_ws_definition.do?sys_id=74daba8813da041032813092e144b0e1</query><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>robert.mccardell</sys_created_by><sys_created_on>2020-01-07 21:05:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6bdc3a4c13da041032813092e144b07e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>REST API</sys_name><sys_overrides/><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_app_module_6bdc3a4c13da041032813092e144b07e</sys_update_name><sys_updated_by>robert.mccardell</sys_updated_by><sys_updated_on>2020-01-07 21:06:17</sys_updated_on><timeline_page/><title>REST API</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
 <payload_hash>564190232</payload_hash>
 <remote_update_set display_value="Vue App">06908b40131e041032813092e144b07b</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
-<sys_created_by>andrew.pishchulin</sys_created_by>
+<sys_created_by>robert.mccardell</sys_created_by>
 <sys_created_on>2020-01-07 21:21:11</sys_created_on>
 <sys_id>0a908b40131e041032813092e144b07c</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>16f81e19d9c0000001</sys_recorded_at>
-<sys_updated_by>andrew.pishchulin</sys_updated_by>
+<sys_updated_by>robert.mccardell</sys_updated_by>
 <sys_updated_on>2020-01-07 21:21:11</sys_updated_on>
 <table/>
 <target_name>REST API</target_name>
@@ -113,16 +114,16 @@
 <category>customer</category>
 <comments/>
 <name>sys_ws_definition_74daba8813da041032813092e144b0e1</name>
-<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_definition"><sys_ws_definition action="INSERT_OR_UPDATE"><active>true</active><base_uri>/api/x_744337_vue_app/container</base_uri><consumes>application/json,application/xml,text/xml</consumes><consumes_customized>false</consumes_customized><default_version>No active default version</default_version><doc_link/><enforce_acl>cf9d01d3e73003009d6247e603f6a990</enforce_acl><is_versioned>false</is_versioned><name>Vue App Container</name><namespace>x_744337_vue_app</namespace><produces>application/json,application/xml,text/xml</produces><produces_customized>false</produces_customized><service_id>container</service_id><short_description/><sys_class_name>sys_ws_definition</sys_class_name><sys_created_by>andrew.pishchulin</sys_created_by><sys_created_on>2020-01-07 20:56:14</sys_created_on><sys_id>74daba8813da041032813092e144b0e1</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Vue App Container</sys_name><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_ws_definition_74daba8813da041032813092e144b0e1</sys_update_name><sys_updated_by>andrew.pishchulin</sys_updated_by><sys_updated_on>2020-01-07 21:04:37</sys_updated_on></sys_ws_definition></record_update>]]></payload>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_definition"><sys_ws_definition action="INSERT_OR_UPDATE"><active>true</active><base_uri>/api/x_744337_vue_app/container</base_uri><consumes>application/json,application/xml,text/xml</consumes><consumes_customized>false</consumes_customized><default_version>No active default version</default_version><doc_link/><enforce_acl>cf9d01d3e73003009d6247e603f6a990</enforce_acl><is_versioned>false</is_versioned><name>Vue App Container</name><namespace>x_744337_vue_app</namespace><produces>application/json,application/xml,text/xml</produces><produces_customized>false</produces_customized><service_id>container</service_id><short_description/><sys_class_name>sys_ws_definition</sys_class_name><sys_created_by>robert.mccardell</sys_created_by><sys_created_on>2020-01-07 20:56:14</sys_created_on><sys_id>74daba8813da041032813092e144b0e1</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Vue App Container</sys_name><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_ws_definition_74daba8813da041032813092e144b0e1</sys_update_name><sys_updated_by>robert.mccardell</sys_updated_by><sys_updated_on>2020-01-07 21:04:37</sys_updated_on></sys_ws_definition></record_update>]]></payload>
 <payload_hash>-1205176465</payload_hash>
 <remote_update_set display_value="Vue App">06908b40131e041032813092e144b07b</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
-<sys_created_by>andrew.pishchulin</sys_created_by>
+<sys_created_by>robert.mccardell</sys_created_by>
 <sys_created_on>2020-01-07 21:21:11</sys_created_on>
 <sys_id>0e908b40131e041032813092e144b07e</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>16f81e19d690000001</sys_recorded_at>
-<sys_updated_by>andrew.pishchulin</sys_updated_by>
+<sys_updated_by>robert.mccardell</sys_updated_by>
 <sys_updated_on>2020-01-07 21:21:11</sys_updated_on>
 <table/>
 <target_name>Vue App Container</target_name>
@@ -139,16 +140,16 @@
 <category>customer</category>
 <comments/>
 <name>sys_scope_privilege_4d3ff68c13da041032813092e144b0f0</name>
-<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>read</operation><source_scope display_value="Vue App">f2ba728813da041032813092e144b01f</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>andrew.pishchulin</sys_created_by><sys_created_on>2020-01-07 21:15:06</sys_created_on><sys_id>4d3ff68c13da041032813092e144b0f0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_ws_operation</sys_name><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_scope_privilege_4d3ff68c13da041032813092e144b0f0</sys_update_name><sys_updated_by>andrew.pishchulin</sys_updated_by><sys_updated_on>2020-01-07 21:15:06</sys_updated_on><target_name>sys_ws_operation</target_name><target_scope display_value="Global">global</target_scope><target_type>sys_db_object</target_type></sys_scope_privilege></record_update>]]></payload>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>read</operation><source_scope display_value="Vue App">f2ba728813da041032813092e144b01f</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>robert.mccardell</sys_created_by><sys_created_on>2020-01-07 21:15:06</sys_created_on><sys_id>4d3ff68c13da041032813092e144b0f0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_ws_operation</sys_name><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_scope_privilege_4d3ff68c13da041032813092e144b0f0</sys_update_name><sys_updated_by>robert.mccardell</sys_updated_by><sys_updated_on>2020-01-07 21:15:06</sys_updated_on><target_name>sys_ws_operation</target_name><target_scope display_value="Global">global</target_scope><target_type>sys_db_object</target_type></sys_scope_privilege></record_update>]]></payload>
 <payload_hash>1181963391</payload_hash>
 <remote_update_set display_value="Vue App">06908b40131e041032813092e144b07b</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
-<sys_created_by>andrew.pishchulin</sys_created_by>
+<sys_created_by>robert.mccardell</sys_created_by>
 <sys_created_on>2020-01-07 21:21:11</sys_created_on>
 <sys_id>42908b40131e041032813092e144b07d</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>16f81e19e480000001</sys_recorded_at>
-<sys_updated_by>andrew.pishchulin</sys_updated_by>
+<sys_updated_by>robert.mccardell</sys_updated_by>
 <sys_updated_on>2020-01-07 21:21:11</sys_updated_on>
 <table/>
 <target_name>sys_ws_operation</target_name>
@@ -165,16 +166,16 @@
 <category>customer</category>
 <comments/>
 <name>sys_app_module_6b4cfa0c13da041032813092e144b07e</name>
-<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Vue Container">163c7a0c13da041032813092e144b0be</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>DIRECT</link_type><map_page/><mobile_title>UI page</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>100</order><override_menu_roles>false</override_menu_roles><query>sys_ui_page.do?sys_id=fb0cb60c13da041032813092e144b0a5</query><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>andrew.pishchulin</sys_created_by><sys_created_on>2020-01-07 21:04:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6b4cfa0c13da041032813092e144b07e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>UI page</sys_name><sys_overrides/><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_app_module_6b4cfa0c13da041032813092e144b07e</sys_update_name><sys_updated_by>andrew.pishchulin</sys_updated_by><sys_updated_on>2020-01-07 21:06:05</sys_updated_on><timeline_page/><title>UI page</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Vue Container">163c7a0c13da041032813092e144b0be</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>DIRECT</link_type><map_page/><mobile_title>UI page</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>100</order><override_menu_roles>false</override_menu_roles><query>sys_ui_page.do?sys_id=fb0cb60c13da041032813092e144b0a5</query><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>robert.mccardell</sys_created_by><sys_created_on>2020-01-07 21:04:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6b4cfa0c13da041032813092e144b07e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>UI page</sys_name><sys_overrides/><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_app_module_6b4cfa0c13da041032813092e144b07e</sys_update_name><sys_updated_by>robert.mccardell</sys_updated_by><sys_updated_on>2020-01-07 21:06:05</sys_updated_on><timeline_page/><title>UI page</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
 <payload_hash>-1643903517</payload_hash>
 <remote_update_set display_value="Vue App">06908b40131e041032813092e144b07b</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
-<sys_created_by>andrew.pishchulin</sys_created_by>
+<sys_created_by>robert.mccardell</sys_created_by>
 <sys_created_on>2020-01-07 21:21:11</sys_created_on>
 <sys_id>46908b40131e041032813092e144b07c</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>16f81e19d850000001</sys_recorded_at>
-<sys_updated_by>andrew.pishchulin</sys_updated_by>
+<sys_updated_by>robert.mccardell</sys_updated_by>
 <sys_updated_on>2020-01-07 21:21:11</sys_updated_on>
 <table/>
 <target_name>UI page</target_name>
@@ -210,16 +211,16 @@
     } else {
         return "file not found";
     }
-})(request, response);]]&gt;&lt;/operation_script&gt;&lt;operation_uri&gt;/api/x_744337_vue_app/container/other_assets/{file}&lt;/operation_uri&gt;&lt;produces&gt;application/json,application/xml,text/xml&lt;/produces&gt;&lt;produces_customized&gt;false&lt;/produces_customized&gt;&lt;relative_path&gt;/other_assets/{file}&lt;/relative_path&gt;&lt;request_example/&gt;&lt;requires_acl_authorization&gt;false&lt;/requires_acl_authorization&gt;&lt;requires_authentication&gt;false&lt;/requires_authentication&gt;&lt;requires_snc_internal_role&gt;false&lt;/requires_snc_internal_role&gt;&lt;short_description/&gt;&lt;sys_class_name&gt;sys_ws_operation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;andrew.pishchulin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-01-07 21:00:09&lt;/sys_created_on&gt;&lt;sys_id&gt;f1cb7ec813da041032813092e144b06a&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Assets&lt;/sys_name&gt;&lt;sys_package display_value="Vue App" source="x_744337_vue_app"&gt;f2ba728813da041032813092e144b01f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Vue App"&gt;f2ba728813da041032813092e144b01f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ws_operation_f1cb7ec813da041032813092e144b06a&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;andrew.pishchulin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-01-07 21:13:37&lt;/sys_updated_on&gt;&lt;web_service_definition display_value="Vue App Container"&gt;74daba8813da041032813092e144b0e1&lt;/web_service_definition&gt;&lt;web_service_version/&gt;&lt;/sys_ws_operation&gt;&lt;/record_update&gt;</payload>
+})(request, response);]]&gt;&lt;/operation_script&gt;&lt;operation_uri&gt;/api/x_744337_vue_app/container/other_assets/{file}&lt;/operation_uri&gt;&lt;produces&gt;application/json,application/xml,text/xml&lt;/produces&gt;&lt;produces_customized&gt;false&lt;/produces_customized&gt;&lt;relative_path&gt;/other_assets/{file}&lt;/relative_path&gt;&lt;request_example/&gt;&lt;requires_acl_authorization&gt;false&lt;/requires_acl_authorization&gt;&lt;requires_authentication&gt;false&lt;/requires_authentication&gt;&lt;requires_snc_internal_role&gt;false&lt;/requires_snc_internal_role&gt;&lt;short_description/&gt;&lt;sys_class_name&gt;sys_ws_operation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;robert.mccardell&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-01-07 21:00:09&lt;/sys_created_on&gt;&lt;sys_id&gt;f1cb7ec813da041032813092e144b06a&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Assets&lt;/sys_name&gt;&lt;sys_package display_value="Vue App" source="x_744337_vue_app"&gt;f2ba728813da041032813092e144b01f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Vue App"&gt;f2ba728813da041032813092e144b01f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ws_operation_f1cb7ec813da041032813092e144b06a&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;robert.mccardell&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-01-07 21:13:37&lt;/sys_updated_on&gt;&lt;web_service_definition display_value="Vue App Container"&gt;74daba8813da041032813092e144b0e1&lt;/web_service_definition&gt;&lt;web_service_version/&gt;&lt;/sys_ws_operation&gt;&lt;/record_update&gt;</payload>
 <payload_hash>427562653</payload_hash>
 <remote_update_set display_value="Vue App">06908b40131e041032813092e144b07b</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
-<sys_created_by>andrew.pishchulin</sys_created_by>
+<sys_created_by>robert.mccardell</sys_created_by>
 <sys_created_on>2020-01-07 21:21:11</sys_created_on>
 <sys_id>46908b40131e041032813092e144b07f</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>16f81e19dbd0000001</sys_recorded_at>
-<sys_updated_by>andrew.pishchulin</sys_updated_by>
+<sys_updated_by>robert.mccardell</sys_updated_by>
 <sys_updated_on>2020-01-07 21:21:11</sys_updated_on>
 <table/>
 <target_name>Assets</target_name>
@@ -236,16 +237,16 @@
 <category>customer</category>
 <comments/>
 <name>sys_ui_page_fb0cb60c13da041032813092e144b0a5</name>
-<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page"><sys_ui_page action="INSERT_OR_UPDATE"><category>general</category><client_script/><description/><direct>true</direct><endpoint>x_744337_vue_app_index-html.do</endpoint><html/><name>index-html</name><processing_script/><sys_class_name>sys_ui_page</sys_class_name><sys_created_by>andrew.pishchulin</sys_created_by><sys_created_on>2020-01-07 21:01:42</sys_created_on><sys_id>fb0cb60c13da041032813092e144b0a5</sys_id><sys_mod_count>2</sys_mod_count><sys_name>index-html</sys_name><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_ui_page_fb0cb60c13da041032813092e144b0a5</sys_update_name><sys_updated_by>andrew.pishchulin</sys_updated_by><sys_updated_on>2020-01-07 21:18:06</sys_updated_on></sys_ui_page></record_update>]]></payload>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page"><sys_ui_page action="INSERT_OR_UPDATE"><category>general</category><client_script/><description/><direct>true</direct><endpoint>x_744337_vue_app_index-html.do</endpoint><html/><name>index-html</name><processing_script/><sys_class_name>sys_ui_page</sys_class_name><sys_created_by>robert.mccardell</sys_created_by><sys_created_on>2020-01-07 21:01:42</sys_created_on><sys_id>fb0cb60c13da041032813092e144b0a5</sys_id><sys_mod_count>2</sys_mod_count><sys_name>index-html</sys_name><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_ui_page_fb0cb60c13da041032813092e144b0a5</sys_update_name><sys_updated_by>robert.mccardell</sys_updated_by><sys_updated_on>2020-01-07 21:18:06</sys_updated_on></sys_ui_page></record_update>]]></payload>
 <payload_hash>1679667812</payload_hash>
 <remote_update_set display_value="Vue App">06908b40131e041032813092e144b07b</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
-<sys_created_by>andrew.pishchulin</sys_created_by>
+<sys_created_by>robert.mccardell</sys_created_by>
 <sys_created_on>2020-01-07 21:21:11</sys_created_on>
 <sys_id>4a908b40131e041032813092e144b07e</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>16f81e19e630000001</sys_recorded_at>
-<sys_updated_by>andrew.pishchulin</sys_updated_by>
+<sys_updated_by>robert.mccardell</sys_updated_by>
 <sys_updated_on>2020-01-07 21:21:11</sys_updated_on>
 <table/>
 <target_name>index-html</target_name>
@@ -262,16 +263,16 @@
 <category>customer</category>
 <comments/>
 <name>sys_scope_privilege_a8ee3ecc13da041032813092e144b0b1</name>
-<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="Vue App">f2ba728813da041032813092e144b01f</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>andrew.pishchulin</sys_created_by><sys_created_on>2020-01-07 21:13:43</sys_created_on><sys_id>a8ee3ecc13da041032813092e144b0b1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ScriptableServiceResultStreamWriter.writeString</sys_name><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_scope_privilege_a8ee3ecc13da041032813092e144b0b1</sys_update_name><sys_updated_by>andrew.pishchulin</sys_updated_by><sys_updated_on>2020-01-07 21:13:43</sys_updated_on><target_name>ScriptableServiceResultStreamWriter.writeString</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></payload>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="Vue App">f2ba728813da041032813092e144b01f</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>robert.mccardell</sys_created_by><sys_created_on>2020-01-07 21:13:43</sys_created_on><sys_id>a8ee3ecc13da041032813092e144b0b1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ScriptableServiceResultStreamWriter.writeString</sys_name><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_scope_privilege_a8ee3ecc13da041032813092e144b0b1</sys_update_name><sys_updated_by>robert.mccardell</sys_updated_by><sys_updated_on>2020-01-07 21:13:43</sys_updated_on><target_name>ScriptableServiceResultStreamWriter.writeString</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></payload>
 <payload_hash>-1548920415</payload_hash>
 <remote_update_set display_value="Vue App">06908b40131e041032813092e144b07b</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
-<sys_created_by>andrew.pishchulin</sys_created_by>
+<sys_created_by>robert.mccardell</sys_created_by>
 <sys_created_on>2020-01-07 21:21:11</sys_created_on>
 <sys_id>4e908b40131e041032813092e144b07d</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>16f81e19e130000001</sys_recorded_at>
-<sys_updated_by>andrew.pishchulin</sys_updated_by>
+<sys_updated_by>robert.mccardell</sys_updated_by>
 <sys_updated_on>2020-01-07 21:21:11</sys_updated_on>
 <table/>
 <target_name>ScriptableServiceResultStreamWriter.writeString</target_name>
@@ -288,16 +289,16 @@
 <category>customer</category>
 <comments/>
 <name>sys_app_f2ba728813da041032813092e144b01f</name>
-<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>false</can_edit_in_studio><enforce_license>log</enforce_license><guided_setup_guid/><js_level>helsinki_es5</js_level><licensable>true</licensable><license_category>none</license_category><license_model>none</license_model><logo/><menu/><name>Vue App</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_744337_vue_app</scope><scoped_administration>false</scoped_administration><short_description>Application container to serve Vue bundle files</short_description><source>x_744337_vue_app</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>andrew.pishchulin</sys_created_by><sys_created_on>2020-01-07 20:55:34</sys_created_on><sys_id>f2ba728813da041032813092e144b01f</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>andrew.pishchulin</sys_updated_by><sys_updated_on>2020-01-07 21:20:22</sys_updated_on><template/><trackable>true</trackable><user_role/><vendor/><vendor_prefix/><version>1.0.0</version></sys_app></record_update>]]></payload>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>false</can_edit_in_studio><enforce_license>log</enforce_license><guided_setup_guid/><js_level>helsinki_es5</js_level><licensable>true</licensable><license_category>none</license_category><license_model>none</license_model><logo/><menu/><name>Vue App</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_744337_vue_app</scope><scoped_administration>false</scoped_administration><short_description>Application container to serve Vue bundle files</short_description><source>x_744337_vue_app</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>robert.mccardell</sys_created_by><sys_created_on>2020-01-07 20:55:34</sys_created_on><sys_id>f2ba728813da041032813092e144b01f</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>robert.mccardell</sys_updated_by><sys_updated_on>2020-01-07 21:20:22</sys_updated_on><template/><trackable>true</trackable><user_role/><vendor/><vendor_prefix/><version>1.0.0</version></sys_app></record_update>]]></payload>
 <payload_hash>1831949103</payload_hash>
 <remote_update_set display_value="Vue App">06908b40131e041032813092e144b07b</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
-<sys_created_by>andrew.pishchulin</sys_created_by>
+<sys_created_by>robert.mccardell</sys_created_by>
 <sys_created_on>2020-01-07 21:21:11</sys_created_on>
 <sys_id>82908b40131e041032813092e144b07c</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>16f81e19d2a0000001</sys_recorded_at>
-<sys_updated_by>andrew.pishchulin</sys_updated_by>
+<sys_updated_by>robert.mccardell</sys_updated_by>
 <sys_updated_on>2020-01-07 21:21:11</sys_updated_on>
 <table/>
 <target_name>Vue App</target_name>
@@ -330,16 +331,16 @@
     } else {
         return "file not found";
     }
-})(request, response);]]&gt;&lt;/operation_script&gt;&lt;operation_uri&gt;/api/x_744337_vue_app/container/js/{file}&lt;/operation_uri&gt;&lt;produces&gt;application/json,application/xml,text/xml&lt;/produces&gt;&lt;produces_customized&gt;false&lt;/produces_customized&gt;&lt;relative_path&gt;/js/{file}&lt;/relative_path&gt;&lt;request_example/&gt;&lt;requires_acl_authorization&gt;false&lt;/requires_acl_authorization&gt;&lt;requires_authentication&gt;false&lt;/requires_authentication&gt;&lt;requires_snc_internal_role&gt;false&lt;/requires_snc_internal_role&gt;&lt;short_description/&gt;&lt;sys_class_name&gt;sys_ws_operation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;andrew.pishchulin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-01-07 20:57:44&lt;/sys_created_on&gt;&lt;sys_id&gt;b7fa32c813da041032813092e144b0f5&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;JS&lt;/sys_name&gt;&lt;sys_package display_value="Vue App" source="x_744337_vue_app"&gt;f2ba728813da041032813092e144b01f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Vue App"&gt;f2ba728813da041032813092e144b01f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ws_operation_b7fa32c813da041032813092e144b0f5&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;andrew.pishchulin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-01-07 21:13:19&lt;/sys_updated_on&gt;&lt;web_service_definition display_value="Vue App Container"&gt;74daba8813da041032813092e144b0e1&lt;/web_service_definition&gt;&lt;web_service_version/&gt;&lt;/sys_ws_operation&gt;&lt;/record_update&gt;</payload>
+})(request, response);]]&gt;&lt;/operation_script&gt;&lt;operation_uri&gt;/api/x_744337_vue_app/container/js/{file}&lt;/operation_uri&gt;&lt;produces&gt;application/json,application/xml,text/xml&lt;/produces&gt;&lt;produces_customized&gt;false&lt;/produces_customized&gt;&lt;relative_path&gt;/js/{file}&lt;/relative_path&gt;&lt;request_example/&gt;&lt;requires_acl_authorization&gt;false&lt;/requires_acl_authorization&gt;&lt;requires_authentication&gt;false&lt;/requires_authentication&gt;&lt;requires_snc_internal_role&gt;false&lt;/requires_snc_internal_role&gt;&lt;short_description/&gt;&lt;sys_class_name&gt;sys_ws_operation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;robert.mccardell&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-01-07 20:57:44&lt;/sys_created_on&gt;&lt;sys_id&gt;b7fa32c813da041032813092e144b0f5&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;JS&lt;/sys_name&gt;&lt;sys_package display_value="Vue App" source="x_744337_vue_app"&gt;f2ba728813da041032813092e144b01f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Vue App"&gt;f2ba728813da041032813092e144b01f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ws_operation_b7fa32c813da041032813092e144b0f5&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;robert.mccardell&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-01-07 21:13:19&lt;/sys_updated_on&gt;&lt;web_service_definition display_value="Vue App Container"&gt;74daba8813da041032813092e144b0e1&lt;/web_service_definition&gt;&lt;web_service_version/&gt;&lt;/sys_ws_operation&gt;&lt;/record_update&gt;</payload>
 <payload_hash>1689604690</payload_hash>
 <remote_update_set display_value="Vue App">06908b40131e041032813092e144b07b</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
-<sys_created_by>andrew.pishchulin</sys_created_by>
+<sys_created_by>robert.mccardell</sys_created_by>
 <sys_created_on>2020-01-07 21:21:11</sys_created_on>
 <sys_id>82908b40131e041032813092e144b07f</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>16f81e19dad0000001</sys_recorded_at>
-<sys_updated_by>andrew.pishchulin</sys_updated_by>
+<sys_updated_by>robert.mccardell</sys_updated_by>
 <sys_updated_on>2020-01-07 21:21:11</sys_updated_on>
 <table/>
 <target_name>JS</target_name>
@@ -356,16 +357,16 @@
 <category>customer</category>
 <comments/>
 <name>sys_scope_privilege_e8ee3ecc13da041032813092e144b0a3</name>
-<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="Vue App">f2ba728813da041032813092e144b01f</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>andrew.pishchulin</sys_created_by><sys_created_on>2020-01-07 21:13:42</sys_created_on><sys_id>e8ee3ecc13da041032813092e144b0a3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>RESTAPIRequest</sys_name><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_scope_privilege_e8ee3ecc13da041032813092e144b0a3</sys_update_name><sys_updated_by>andrew.pishchulin</sys_updated_by><sys_updated_on>2020-01-07 21:13:42</sys_updated_on><target_name>RESTAPIRequest</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></payload>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="Vue App">f2ba728813da041032813092e144b01f</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>robert.mccardell</sys_created_by><sys_created_on>2020-01-07 21:13:42</sys_created_on><sys_id>e8ee3ecc13da041032813092e144b0a3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>RESTAPIRequest</sys_name><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_scope_privilege_e8ee3ecc13da041032813092e144b0a3</sys_update_name><sys_updated_by>robert.mccardell</sys_updated_by><sys_updated_on>2020-01-07 21:13:42</sys_updated_on><target_name>RESTAPIRequest</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></payload>
 <payload_hash>-778008499</payload_hash>
 <remote_update_set display_value="Vue App">06908b40131e041032813092e144b07b</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
-<sys_created_by>andrew.pishchulin</sys_created_by>
+<sys_created_by>robert.mccardell</sys_created_by>
 <sys_created_on>2020-01-07 21:21:11</sys_created_on>
 <sys_id>86908b40131e041032813092e144b07e</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>16f81e19df00000001</sys_recorded_at>
-<sys_updated_by>andrew.pishchulin</sys_updated_by>
+<sys_updated_by>robert.mccardell</sys_updated_by>
 <sys_updated_on>2020-01-07 21:21:11</sys_updated_on>
 <table/>
 <target_name>RESTAPIRequest</target_name>
@@ -382,16 +383,16 @@
 <category>customer</category>
 <comments/>
 <name>sys_app_application_163c7a0c13da041032813092e144b0be</name>
-<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>-100</order><roles>snc_internal</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>andrew.pishchulin</sys_created_by><sys_created_on>2020-01-07 21:02:22</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>163c7a0c13da041032813092e144b0be</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Vue Container</sys_name><sys_overrides/><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_app_application_163c7a0c13da041032813092e144b0be</sys_update_name><sys_updated_by>andrew.pishchulin</sys_updated_by><sys_updated_on>2020-01-07 21:02:22</sys_updated_on><title>Vue Container</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>-100</order><roles>snc_internal</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>robert.mccardell</sys_created_by><sys_created_on>2020-01-07 21:02:22</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>163c7a0c13da041032813092e144b0be</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Vue Container</sys_name><sys_overrides/><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_app_application_163c7a0c13da041032813092e144b0be</sys_update_name><sys_updated_by>robert.mccardell</sys_updated_by><sys_updated_on>2020-01-07 21:02:22</sys_updated_on><title>Vue Container</title><view_name/></sys_app_application></record_update>]]></payload>
 <payload_hash>-1567843188</payload_hash>
 <remote_update_set display_value="Vue App">06908b40131e041032813092e144b07b</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
-<sys_created_by>andrew.pishchulin</sys_created_by>
+<sys_created_by>robert.mccardell</sys_created_by>
 <sys_created_on>2020-01-07 21:21:11</sys_created_on>
 <sys_id>8a908b40131e041032813092e144b07b</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>16f81e19d530000001</sys_recorded_at>
-<sys_updated_by>andrew.pishchulin</sys_updated_by>
+<sys_updated_by>robert.mccardell</sys_updated_by>
 <sys_updated_on>2020-01-07 21:21:11</sys_updated_on>
 <table/>
 <target_name>Vue Container</target_name>
@@ -408,16 +409,16 @@
 <category>customer</category>
 <comments/>
 <name>sys_scope_privilege_853ff68c13da041032813092e144b0ee</name>
-<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="Vue App">f2ba728813da041032813092e144b01f</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>andrew.pishchulin</sys_created_by><sys_created_on>2020-01-07 21:15:06</sys_created_on><sys_id>853ff68c13da041032813092e144b0ee</sys_id><sys_mod_count>0</sys_mod_count><sys_name>GlideSysAttachment.getContentStream</sys_name><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_scope_privilege_853ff68c13da041032813092e144b0ee</sys_update_name><sys_updated_by>andrew.pishchulin</sys_updated_by><sys_updated_on>2020-01-07 21:15:06</sys_updated_on><target_name>GlideSysAttachment.getContentStream</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></payload>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="Vue App">f2ba728813da041032813092e144b01f</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>robert.mccardell</sys_created_by><sys_created_on>2020-01-07 21:15:06</sys_created_on><sys_id>853ff68c13da041032813092e144b0ee</sys_id><sys_mod_count>0</sys_mod_count><sys_name>GlideSysAttachment.getContentStream</sys_name><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_scope_privilege_853ff68c13da041032813092e144b0ee</sys_update_name><sys_updated_by>robert.mccardell</sys_updated_by><sys_updated_on>2020-01-07 21:15:06</sys_updated_on><target_name>GlideSysAttachment.getContentStream</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></payload>
 <payload_hash>-1939959647</payload_hash>
 <remote_update_set display_value="Vue App">06908b40131e041032813092e144b07b</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
-<sys_created_by>andrew.pishchulin</sys_created_by>
+<sys_created_by>robert.mccardell</sys_created_by>
 <sys_created_on>2020-01-07 21:21:11</sys_created_on>
 <sys_id>8a908b40131e041032813092e144b07d</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>16f81e19e530000001</sys_recorded_at>
-<sys_updated_by>andrew.pishchulin</sys_updated_by>
+<sys_updated_by>robert.mccardell</sys_updated_by>
 <sys_updated_on>2020-01-07 21:21:11</sys_updated_on>
 <table/>
 <target_name>GlideSysAttachment.getContentStream</target_name>
@@ -434,16 +435,16 @@
 <category>customer</category>
 <comments/>
 <name>sys_scope_privilege_28ee3ecc13da041032813092e144b0ad</name>
-<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="Vue App">f2ba728813da041032813092e144b01f</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>andrew.pishchulin</sys_created_by><sys_created_on>2020-01-07 21:13:43</sys_created_on><sys_id>28ee3ecc13da041032813092e144b0ad</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ScriptableServiceResultBuilder.setStatus</sys_name><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_scope_privilege_28ee3ecc13da041032813092e144b0ad</sys_update_name><sys_updated_by>andrew.pishchulin</sys_updated_by><sys_updated_on>2020-01-07 21:13:43</sys_updated_on><target_name>ScriptableServiceResultBuilder.setStatus</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></payload>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="Vue App">f2ba728813da041032813092e144b01f</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>robert.mccardell</sys_created_by><sys_created_on>2020-01-07 21:13:43</sys_created_on><sys_id>28ee3ecc13da041032813092e144b0ad</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ScriptableServiceResultBuilder.setStatus</sys_name><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_scope_privilege_28ee3ecc13da041032813092e144b0ad</sys_update_name><sys_updated_by>robert.mccardell</sys_updated_by><sys_updated_on>2020-01-07 21:13:43</sys_updated_on><target_name>ScriptableServiceResultBuilder.setStatus</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></payload>
 <payload_hash>-1032969</payload_hash>
 <remote_update_set display_value="Vue App">06908b40131e041032813092e144b07b</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
-<sys_created_by>andrew.pishchulin</sys_created_by>
+<sys_created_by>robert.mccardell</sys_created_by>
 <sys_created_on>2020-01-07 21:21:11</sys_created_on>
 <sys_id>8e908b40131e041032813092e144b07c</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>16f81e19dfc0000001</sys_recorded_at>
-<sys_updated_by>andrew.pishchulin</sys_updated_by>
+<sys_updated_by>robert.mccardell</sys_updated_by>
 <sys_updated_on>2020-01-07 21:21:11</sys_updated_on>
 <table/>
 <target_name>ScriptableServiceResultBuilder.setStatus</target_name>
@@ -460,16 +461,16 @@
 <category>customer</category>
 <comments/>
 <name>sys_scope_privilege_e4ee3ecc13da041032813092e144b0ab</name>
-<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="Vue App">f2ba728813da041032813092e144b01f</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>andrew.pishchulin</sys_created_by><sys_created_on>2020-01-07 21:13:43</sys_created_on><sys_id>e4ee3ecc13da041032813092e144b0ab</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ScriptableServiceResultBuilder.setContentType</sys_name><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_scope_privilege_e4ee3ecc13da041032813092e144b0ab</sys_update_name><sys_updated_by>andrew.pishchulin</sys_updated_by><sys_updated_on>2020-01-07 21:13:43</sys_updated_on><target_name>ScriptableServiceResultBuilder.setContentType</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></payload>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="Vue App">f2ba728813da041032813092e144b01f</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>robert.mccardell</sys_created_by><sys_created_on>2020-01-07 21:13:43</sys_created_on><sys_id>e4ee3ecc13da041032813092e144b0ab</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ScriptableServiceResultBuilder.setContentType</sys_name><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_scope_privilege_e4ee3ecc13da041032813092e144b0ab</sys_update_name><sys_updated_by>robert.mccardell</sys_updated_by><sys_updated_on>2020-01-07 21:13:43</sys_updated_on><target_name>ScriptableServiceResultBuilder.setContentType</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></payload>
 <payload_hash>-739140287</payload_hash>
 <remote_update_set display_value="Vue App">06908b40131e041032813092e144b07b</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
-<sys_created_by>andrew.pishchulin</sys_created_by>
+<sys_created_by>robert.mccardell</sys_created_by>
 <sys_created_on>2020-01-07 21:21:11</sys_created_on>
 <sys_id>c2908b40131e041032813092e144b07e</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>16f81e19e1f0000001</sys_recorded_at>
-<sys_updated_by>andrew.pishchulin</sys_updated_by>
+<sys_updated_by>robert.mccardell</sys_updated_by>
 <sys_updated_on>2020-01-07 21:21:11</sys_updated_on>
 <table/>
 <target_name>ScriptableServiceResultBuilder.setContentType</target_name>
@@ -486,16 +487,16 @@
 <category>customer</category>
 <comments/>
 <name>sys_scope_privilege_68ee3ecc13da041032813092e144b0af</name>
-<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="Vue App">f2ba728813da041032813092e144b01f</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>andrew.pishchulin</sys_created_by><sys_created_on>2020-01-07 21:13:43</sys_created_on><sys_id>68ee3ecc13da041032813092e144b0af</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ScriptableServiceResultBuilder.getStreamWriter</sys_name><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_scope_privilege_68ee3ecc13da041032813092e144b0af</sys_update_name><sys_updated_by>andrew.pishchulin</sys_updated_by><sys_updated_on>2020-01-07 21:13:43</sys_updated_on><target_name>ScriptableServiceResultBuilder.getStreamWriter</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></payload>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="Vue App">f2ba728813da041032813092e144b01f</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>robert.mccardell</sys_created_by><sys_created_on>2020-01-07 21:13:43</sys_created_on><sys_id>68ee3ecc13da041032813092e144b0af</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ScriptableServiceResultBuilder.getStreamWriter</sys_name><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_scope_privilege_68ee3ecc13da041032813092e144b0af</sys_update_name><sys_updated_by>robert.mccardell</sys_updated_by><sys_updated_on>2020-01-07 21:13:43</sys_updated_on><target_name>ScriptableServiceResultBuilder.getStreamWriter</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></payload>
 <payload_hash>-1775054259</payload_hash>
 <remote_update_set display_value="Vue App">06908b40131e041032813092e144b07b</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
-<sys_created_by>andrew.pishchulin</sys_created_by>
+<sys_created_by>robert.mccardell</sys_created_by>
 <sys_created_on>2020-01-07 21:21:11</sys_created_on>
 <sys_id>c6908b40131e041032813092e144b07d</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>16f81e19e070000001</sys_recorded_at>
-<sys_updated_by>andrew.pishchulin</sys_updated_by>
+<sys_updated_by>robert.mccardell</sys_updated_by>
 <sys_updated_on>2020-01-07 21:21:11</sys_updated_on>
 <table/>
 <target_name>ScriptableServiceResultBuilder.getStreamWriter</target_name>
@@ -512,16 +513,16 @@
 <category>customer</category>
 <comments/>
 <name>sys_scope_privilege_093fb200131e041032813092e144b06d</name>
-<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="Vue App">f2ba728813da041032813092e144b01f</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>andrew.pishchulin</sys_created_by><sys_created_on>2020-01-07 21:15:06</sys_created_on><sys_id>093fb200131e041032813092e144b06d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ScriptableServiceResultStreamWriter.writeStream</sys_name><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_scope_privilege_093fb200131e041032813092e144b06d</sys_update_name><sys_updated_by>andrew.pishchulin</sys_updated_by><sys_updated_on>2020-01-07 21:15:06</sys_updated_on><target_name>ScriptableServiceResultStreamWriter.writeStream</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></payload>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="Vue App">f2ba728813da041032813092e144b01f</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>robert.mccardell</sys_created_by><sys_created_on>2020-01-07 21:15:06</sys_created_on><sys_id>093fb200131e041032813092e144b06d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ScriptableServiceResultStreamWriter.writeStream</sys_name><sys_package display_value="Vue App" source="x_744337_vue_app">f2ba728813da041032813092e144b01f</sys_package><sys_policy/><sys_scope display_value="Vue App">f2ba728813da041032813092e144b01f</sys_scope><sys_update_name>sys_scope_privilege_093fb200131e041032813092e144b06d</sys_update_name><sys_updated_by>robert.mccardell</sys_updated_by><sys_updated_on>2020-01-07 21:15:06</sys_updated_on><target_name>ScriptableServiceResultStreamWriter.writeStream</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></payload>
 <payload_hash>190047297</payload_hash>
 <remote_update_set display_value="Vue App">06908b40131e041032813092e144b07b</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
-<sys_created_by>andrew.pishchulin</sys_created_by>
+<sys_created_by>robert.mccardell</sys_created_by>
 <sys_created_on>2020-01-07 21:21:11</sys_created_on>
 <sys_id>ca908b40131e041032813092e144b07c</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>16f81e19e3c0000001</sys_recorded_at>
-<sys_updated_by>andrew.pishchulin</sys_updated_by>
+<sys_updated_by>robert.mccardell</sys_updated_by>
 <sys_updated_on>2020-01-07 21:21:11</sys_updated_on>
 <table/>
 <target_name>ScriptableServiceResultStreamWriter.writeStream</target_name>
@@ -557,16 +558,16 @@
     } else {
         return "file not found";
     }
-})(request, response);]]&gt;&lt;/operation_script&gt;&lt;operation_uri&gt;/api/x_744337_vue_app/container/img/{file}&lt;/operation_uri&gt;&lt;produces&gt;application/json,application/xml,text/xml&lt;/produces&gt;&lt;produces_customized&gt;false&lt;/produces_customized&gt;&lt;relative_path&gt;/img/{file}&lt;/relative_path&gt;&lt;request_example/&gt;&lt;requires_acl_authorization&gt;false&lt;/requires_acl_authorization&gt;&lt;requires_authentication&gt;false&lt;/requires_authentication&gt;&lt;requires_snc_internal_role&gt;false&lt;/requires_snc_internal_role&gt;&lt;short_description/&gt;&lt;sys_class_name&gt;sys_ws_operation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;andrew.pishchulin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-01-07 20:58:53&lt;/sys_created_on&gt;&lt;sys_id&gt;ac5b3ac813da041032813092e144b01c&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;IMG&lt;/sys_name&gt;&lt;sys_package display_value="Vue App" source="x_744337_vue_app"&gt;f2ba728813da041032813092e144b01f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Vue App"&gt;f2ba728813da041032813092e144b01f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ws_operation_ac5b3ac813da041032813092e144b01c&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;andrew.pishchulin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-01-07 21:14:02&lt;/sys_updated_on&gt;&lt;web_service_definition display_value="Vue App Container"&gt;74daba8813da041032813092e144b0e1&lt;/web_service_definition&gt;&lt;web_service_version/&gt;&lt;/sys_ws_operation&gt;&lt;/record_update&gt;</payload>
+})(request, response);]]&gt;&lt;/operation_script&gt;&lt;operation_uri&gt;/api/x_744337_vue_app/container/img/{file}&lt;/operation_uri&gt;&lt;produces&gt;application/json,application/xml,text/xml&lt;/produces&gt;&lt;produces_customized&gt;false&lt;/produces_customized&gt;&lt;relative_path&gt;/img/{file}&lt;/relative_path&gt;&lt;request_example/&gt;&lt;requires_acl_authorization&gt;false&lt;/requires_acl_authorization&gt;&lt;requires_authentication&gt;false&lt;/requires_authentication&gt;&lt;requires_snc_internal_role&gt;false&lt;/requires_snc_internal_role&gt;&lt;short_description/&gt;&lt;sys_class_name&gt;sys_ws_operation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;robert.mccardell&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-01-07 20:58:53&lt;/sys_created_on&gt;&lt;sys_id&gt;ac5b3ac813da041032813092e144b01c&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;IMG&lt;/sys_name&gt;&lt;sys_package display_value="Vue App" source="x_744337_vue_app"&gt;f2ba728813da041032813092e144b01f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Vue App"&gt;f2ba728813da041032813092e144b01f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ws_operation_ac5b3ac813da041032813092e144b01c&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;robert.mccardell&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-01-07 21:14:02&lt;/sys_updated_on&gt;&lt;web_service_definition display_value="Vue App Container"&gt;74daba8813da041032813092e144b0e1&lt;/web_service_definition&gt;&lt;web_service_version/&gt;&lt;/sys_ws_operation&gt;&lt;/record_update&gt;</payload>
 <payload_hash>643190636</payload_hash>
 <remote_update_set display_value="Vue App">06908b40131e041032813092e144b07b</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
-<sys_created_by>andrew.pishchulin</sys_created_by>
+<sys_created_by>robert.mccardell</sys_created_by>
 <sys_created_on>2020-01-07 21:21:11</sys_created_on>
 <sys_id>ce908b40131e041032813092e144b07e</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>16f81e19e310000001</sys_recorded_at>
-<sys_updated_by>andrew.pishchulin</sys_updated_by>
+<sys_updated_by>robert.mccardell</sys_updated_by>
 <sys_updated_on>2020-01-07 21:21:11</sys_updated_on>
 <table/>
 <target_name>IMG</target_name>
